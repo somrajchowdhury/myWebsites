@@ -9,4 +9,4 @@
   :boy:
 </div>
 
-> This repository contains websites that i have built with my creativity and very basic understanding of the required technologies.
+> Websites that i have built with my creativity and very basic understanding of the required technologies.
