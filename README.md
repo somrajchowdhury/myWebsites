@@ -11,12 +11,10 @@
 
 > Websites that i have built with my creativity and very basic understanding of the required technologies.
 
-- [Estaurant - The Good Mood Food! (Restaurant Website)](#estaurant---the-good-mood-food-!)
+- [Estaurant - The Good Mood Food! (Restaurant Website)](#estaurant)
 
----
+---<br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-## Estaurant - The Good Mood Food!
+## Estaurant
 
 > **Check out :** [Link to my website](http://www.restoesto.epizy.com)
