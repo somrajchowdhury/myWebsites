@@ -1,7 +1,5 @@
 <h1 align="center">WebSITE</h1>
 
-![alt text](https://www.flaticon.com/free-icon/html-5_919827 "HTML")
-
 <div align="center">
   <sub>Simple and Creative Websites. Built with ❤︎ by
   <a href="https://github.com/somrajchowdhury">Somraj Chowdhury</a> 
@@ -14,3 +12,7 @@
 > Websites that i have built with my creativity and very basic understanding of the required technologies.
 
 - [Restaurant Website](#estaurant)
+
+## Estaurant
+
+> **Check out :** [RestaurantWebsite](www.restoesto.epizy.com)
