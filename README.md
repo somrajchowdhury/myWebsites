@@ -7,11 +7,11 @@
   
 <div align="center">
   :boy:
-</div>
+</div><br>
 
 > Websites that i have built with my creativity and very basic understanding of the required technologies.
 
-- [Estaurant - The Good Mood Food! (Restaurant Website)](#estaurant)
+- [Estaurant - The Good Mood Food! (Restaurant Website)](#estaurant---the-good-mood-food-!)
 
 ---
 
