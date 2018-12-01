@@ -15,4 +15,4 @@
 
 ## Estaurant
 
-> **Check out :** [RestaurantWebsite](www.restoesto.epizy.com)
+> **Check out :** [Link to my website](http://www.restoesto.epizy.com)
