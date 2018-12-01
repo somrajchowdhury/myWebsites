@@ -1,5 +1,7 @@
 <h1 align="center">WebSITE</h1>
 
+![alt text](https://www.flaticon.com/free-icon/html-5_919827 "Logo Title Text 1")
+
 <div align="center">
   <sub>Simple and Creative Websites. Built with ❤︎ by
   <a href="https://github.com/somrajchowdhury">Somraj Chowdhury</a> 
