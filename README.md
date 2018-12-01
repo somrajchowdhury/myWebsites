@@ -11,7 +11,9 @@
 
 > Websites that i have built with my creativity and very basic understanding of the required technologies.
 
-- [Restaurant Website](#estaurant)
+- [Estaurant - The Good Mood Food! (Restaurant Website)](#estaurant)
+
+---
 
 ## Estaurant
 
