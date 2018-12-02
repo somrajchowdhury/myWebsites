@@ -35,16 +35,16 @@
 
 ### The website has the following modules :
 
-1. Landing Section
-  * Home
-  * About
-  * Services
-  * Order
-  * Contact
-2. SignIn & SignUp Section
-  * Login
-  * Register
-3. Order & Checkout Section
-  * Menu
-  * Invoice
-  * Checkout
+1. **Landing Section**
+   * Home
+   * About
+   * Services
+   * Order
+   * Contact
+2. **SignIn & SignUp Section**
+   * Login
+   * Register
+3. **Order & Checkout Section**
+   * Menu
+   * Invoice
+   * Checkout
