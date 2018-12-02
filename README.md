@@ -19,7 +19,7 @@
 
 ## Estaurant 
 
-> **Link :** <kbd>:pizza:[**Go to the Website](http://www.restoesto.epizy.com):hamburger:</kbd>
+> **Link :** <kbd style="font-weight:bold;">:pizza: [Go to the Website](http://www.restoesto.epizy.com) :hamburger:</kbd>
 
 ---
 
