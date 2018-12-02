@@ -9,7 +9,7 @@
   :boy:
 </div><br>
 
-> Websites that i have built with my creativity and very basic understanding of the required technologies.
+> Websites that i have built with my creativity and beginner-level understanding of the required technologies.
 
 ## List of Websites
 
