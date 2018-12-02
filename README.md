@@ -17,11 +17,11 @@
 
 ## Estaurant
 
-> **Link :** [Go to the Website](http://www.restoesto.epizy.com)
+> **Link :** <kbd>[Go to the Website](http://www.restoesto.epizy.com)</kbd>
 
 ---
 
-###Tools and Technologies used :
+### Tools and Technologies used :
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
@@ -33,4 +33,6 @@
 
 ---
 
-###The website has the following modules :
+### The website has the following modules :
+
+
