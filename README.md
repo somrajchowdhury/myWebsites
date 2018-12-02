@@ -55,21 +55,21 @@
 
 | ![1.1 - Home Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.1%20-%20Home%20Section.png) | 
 |:--:| 
-| *Home Section* |
+| *1.1 - Home Section* |
 
 | ![1.2 - About Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.2%20-%20About%20Section.png) | 
 |:--:| 
-| *About Section* |
+| *1.2 - About Section* |
 
 | ![1.3 - Services Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.3%20-%20Services%20Section.png) | 
 |:--:| 
-| *Services Section* |
+| *1.3 - Services Section* |
 
 | ![1.4 - Order Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.4%20-%20Order%20Section.png) | 
 |:--:| 
-| *Order Section* |
+| *1.5 - Order Section* |
 
-| ![1.5 - Contact Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.5 - Contact Section.png) | 
+| ![1.5 - Contact Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.5%20-%20Contact%20Section.png) | 
 |:--:| 
-| *Contact Section* |
+| *1.6 - Contact Section* |
 
