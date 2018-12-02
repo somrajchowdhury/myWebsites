@@ -73,3 +73,22 @@
 |:--:| 
 | *1.6 - Contact Section* |
 
+| ![2.1 - Login Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/2.1%20-%20Login%20Section.png) | 
+|:--:| 
+| *2.1 - Login Section* |
+
+| ![2.2 - SignUp Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/2.2%20-%20SignUp%20Section.png) | 
+|:--:| 
+| *2.2 - Register Section* |
+
+| ![3.1 - Menu Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/3.1%20-%20Menu%20Section.png) | 
+|:--:| 
+| *3.1 - Menu Section* |
+
+| ![3.2 - Invoice Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/3.2%20-%20Invoice%20Section.png) | 
+|:--:| 
+| *3.2 - Invoice Section* |
+
+| ![3.3 - Checkout Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/3.3%20-%20Checkout%20Section.png) | 
+|:--:| 
+| *3.3 - Checkout Section* |
