@@ -96,7 +96,7 @@
 | *3.3 - Checkout Section* |
 
 ---
-
-<kbd>[To Top](#list-of-websites)</kbd>
-
+<div align="right">
+  <kbd>[To Top](#list-of-websites)</kbd>
+</div>
 ---
