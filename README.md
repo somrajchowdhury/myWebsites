@@ -15,9 +15,9 @@
 
 ---
 
-## Estaurant
+## Estaurant 
 
-> **Link :** <kbd>[Go to the Website](http://www.restoesto.epizy.com)</kbd>
+> **Link :** <kbd>:pizza:[Go to the Website](http://www.restoesto.epizy.com):hamburger:</kbd>
 
 ---
 
@@ -51,5 +51,5 @@
 
 ---
 
-### Screenshots :boy:
+### Screenshots :camera:
 
