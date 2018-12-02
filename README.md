@@ -53,3 +53,6 @@
 
 ### Screenshots :camera:
 
+| ![1.1 - Home Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.1%20-%20Home%20Section.png) | 
+|:--:| 
+| *Home* |
