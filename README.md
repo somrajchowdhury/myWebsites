@@ -96,5 +96,5 @@
 | *3.3 - Checkout Section* |
 
 ---
-<kbd>:arrow_up: [To Top](#list-of-websites) :arrow_up:</kbd>
+<kbd>[To Top](#list-of-websites) :arrow_heading_up:</kbd>
 ---
