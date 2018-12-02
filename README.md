@@ -96,5 +96,5 @@
 | *3.3 - Checkout Section* |
 
 ---
-<kbd>[(Back to top)](#list-of-websites)</kbd>
+<kbd>[:top:](#list-of-websites)</kbd>
 ---
