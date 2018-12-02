@@ -98,7 +98,7 @@
 ---
 
 <div align="right">
-  <kbd>[To Top :arrow_up:](#list-of-websites)</kbd>
+  <kbd>[(To Top) :arrow_up:](#list-of-websites)</kbd>
 </div>
 
 ---
