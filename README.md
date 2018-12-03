@@ -61,39 +61,39 @@
 
 | ![1.2 - About Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.2%20-%20About%20Section.png) | 
 |:--:| 
-| *1.2 - About Section* |
+| **_1.2 - About Section_** |
 
 | ![1.3 - Services Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.3%20-%20Services%20Section.png) | 
 |:--:| 
-| *1.3 - Services Section* |
+| **_1.3 - Services Section_** |
 
 | ![1.4 - Order Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.4%20-%20Order%20Section.png) | 
 |:--:| 
-| *1.5 - Order Section* |
+| **_1.5 - Order Section_** |
 
 | ![1.5 - Contact Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.5%20-%20Contact%20Section.png) | 
 |:--:| 
-| *1.6 - Contact Section* |
+| **_1.6 - Contact Section_** |
 
 | ![2.1 - Login Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/2.1%20-%20Login%20Section.png) | 
 |:--:| 
-| *2.1 - Login Section* |
+| **_2.1 - Login Section_** |
 
 | ![2.2 - SignUp Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/2.2%20-%20SignUp%20Section.png) | 
 |:--:| 
-| *2.2 - Register Section* |
+| **_2.2 - Register Section_** |
 
 | ![3.1 - Menu Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/3.1%20-%20Menu%20Section.png) | 
 |:--:| 
-| *3.1 - Menu Section* |
+| **_3.1 - Menu Section_** |
 
 | ![3.2 - Invoice Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/3.2%20-%20Invoice%20Section.png) | 
 |:--:| 
-| *3.2 - Invoice Section* |
+| **_3.2 - Invoice Section_** |
 
 | ![3.3 - Checkout Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/3.3%20-%20Checkout%20Section.png) | 
 |:--:| 
-| *3.3 - Checkout Section* |
+| **_3.3 - Checkout Section_** |
 
 ---
 <kbd>[To Top :arrow_heading_up:](#list-of-websites)</kbd>
