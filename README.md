@@ -57,7 +57,7 @@
 
 | ![1.1 - Home Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.1%20-%20Home%20Section.png) | 
 |:--:| 
-| *1.1 - Home Section* |
+| ***1.1 - Home Section* |
 
 | ![1.2 - About Section.png](https://github.com/somrajchowdhury/myWebsites/blob/master/Estaurant/Screenshots/1.2%20-%20About%20Section.png) | 
 |:--:| 
